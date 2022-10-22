@@ -1,12 +1,12 @@
 import React, {useState} from 'react'
 import axios from 'axios'
 
-function StandardSudoku() {
+function Arrow() {
     return (
         <div>
-            <p>Sudoku</p>
+            <p>Arrow</p>
         </div>
     )
 }
 
-export default StandardSudoku;
+export default Arrow;
