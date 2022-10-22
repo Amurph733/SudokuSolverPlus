@@ -1,2 +1,0 @@
-# SudokuSolverPlus
-VandyHacks IX Project
