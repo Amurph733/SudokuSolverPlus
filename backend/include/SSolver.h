@@ -17,6 +17,6 @@ public:
 };
 
 #include "PossPoint.h"
-#include "../src/SSolver.cpp"
+#include "../../src/SSolver.cpp"
 
 #endif //SUDOKUSOLVERPLUS_SSOLVER_H
