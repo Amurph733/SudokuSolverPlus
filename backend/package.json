@@ -1,22 +1,21 @@
 {
-  "name": "change-coding-challenge-2022-marcuskamen",
+  "name": "SudokuSolverPlus",
   "version": "1.0.0",
-  "description": "Congrats!! You have been selected to engage in the next step of the Change++ application process.",
   "main": "backend.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ChangePlusPlusVandy/change-coding-challenge-2022-MarcusKamen.git"
+    "url": "git+https://github.com/Amurph733/SudokuSolverPlus"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ChangePlusPlusVandy/change-coding-challenge-2022-MarcusKamen/issues"
+    "url": "https://github.com/Amurph733/SudokuSolverPlus"
   },
-  "homepage": "https://github.com/ChangePlusPlusVandy/change-coding-challenge-2022-MarcusKamen#readme",
+  "homepage": "https://github.com/Amurph733/SudokuSolverPlus",
   "dependencies": {
     "axios": "^0.27.2",
     "convert": "^4.6.2",
